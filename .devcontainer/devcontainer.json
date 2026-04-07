@@ -1,0 +1,7 @@
+{
+  "name": "spelling-features-test",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/brooke-hamilton/spelling-features/pyspelling:latest": {}
+  }
+}
