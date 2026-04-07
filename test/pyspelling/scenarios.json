@@ -1,0 +1,8 @@
+{
+    "pyspelling_help": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "pyspelling": {}
+        }
+    }
+}
