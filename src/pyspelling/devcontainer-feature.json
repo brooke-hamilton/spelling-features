@@ -1,0 +1,9 @@
+{
+    "name": "pyspelling",
+    "id": "pyspelling",
+    "version": "1.0.0",
+    "description": "Installs pyspelling, a spell checking tool powered by Aspell",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ]
+}
