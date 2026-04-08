@@ -4,5 +4,13 @@
         "features": {
             "pyspelling": {}
         }
+    },
+    "pyspelling_specific_version": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "pyspelling": {
+                "version": "2.10"
+            }
+        }
     }
 }
