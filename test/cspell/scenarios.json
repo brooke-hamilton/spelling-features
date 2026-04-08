@@ -4,5 +4,13 @@
         "features": {
             "cspell": {}
         }
+    },
+    "cspell_specific_version": {
+        "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+        "features": {
+            "cspell": {
+                "version": "9.8.0"
+            }
+        }
     }
 }
