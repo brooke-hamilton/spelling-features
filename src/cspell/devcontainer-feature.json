@@ -1,0 +1,12 @@
+{
+    "name": "cspell",
+    "id": "cspell",
+    "version": "1.0.0",
+    "description": "Installs cspell, a spell checker for code",
+    "documentationURL": "https://github.com/streetsidesoftware/cspell",
+    "licenseURL": "https://github.com/brooke-hamilton/spelling-features/blob/main/LICENSE",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils",
+        "ghcr.io/devcontainers/features/node"
+    ]
+}
