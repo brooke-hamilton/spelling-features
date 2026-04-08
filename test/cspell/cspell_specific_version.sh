@@ -9,7 +9,7 @@ set -e
 source dev-container-features-test-lib
 
 # Feature-specific tests
-check "cspell version is 8.17.1" bash -c "cspell --version | grep -q '8.17.1'"
+check "cspell version is 9.8.0" bash -c "cspell --version | grep -q '9.8.0'"
 
 # Report results
 reportResults
