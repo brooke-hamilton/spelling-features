@@ -3,6 +3,8 @@
     "id": "pyspelling",
     "version": "1.0.0",
     "description": "Installs pyspelling, a spell checking tool powered by Aspell",
+    "documentationURL": "https://github.com/facelessuser/pyspelling",
+    "licenseURL": "https://github.com/brooke-hamilton/spelling-features/blob/main/LICENSE",
     "installsAfter": [
         "ghcr.io/devcontainers/features/common-utils"
     ]
