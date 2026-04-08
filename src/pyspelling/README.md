@@ -11,7 +11,11 @@ Installs pyspelling, a spell checking tool powered by Aspell
 }
 ```
 
+## Options
 
+| Options Id | Description | Type | Default Value |
+|-----|-----|-----|-----|
+| version | Version of pyspelling to install (e.g., 'latest', '2.10', '2.9') | string | latest |
 
 
 
