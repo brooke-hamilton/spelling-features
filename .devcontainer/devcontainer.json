@@ -1,8 +1,8 @@
 {
-  "name": "spelling-features-test",
+  "name": "features-test",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "features": {
-    "ghcr.io/brooke-hamilton/spelling-features/pyspelling:latest": {},
-    "ghcr.io/brooke-hamilton/spelling-features/cspell:latest": {}
+    "ghcr.io/brooke-hamilton/features/pyspelling:latest": {},
+    "ghcr.io/brooke-hamilton/features/cspell:latest": {}
   }
 }

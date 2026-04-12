@@ -11,7 +11,7 @@ If you need a specific Node.js version, add the node feature explicitly to your 
     "ghcr.io/devcontainers/features/node:1": {
         "version": "20"
     },
-    "ghcr.io/brooke-hamilton/spelling-features/cspell:1": {}
+    "ghcr.io/brooke-hamilton/features/cspell:1": {}
 }
 ```
 

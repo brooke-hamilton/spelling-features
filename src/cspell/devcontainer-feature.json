@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Installs cspell, a spell checker for code",
     "documentationURL": "https://github.com/streetsidesoftware/cspell",
-    "licenseURL": "https://github.com/brooke-hamilton/spelling-features/blob/main/LICENSE",
+    "licenseURL": "https://github.com/brooke-hamilton/features/blob/main/LICENSE",
     "options": {
         "version": {
             "type": "string",
