@@ -1,4 +1,4 @@
-# spelling-features
+# features
 
 A collection of [Dev Container Features](https://containers.dev/implementors/features/) for spell checking tools.
 
@@ -21,7 +21,7 @@ Add the feature to your `devcontainer.json`:
 {
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/brooke-hamilton/spelling-features/pyspelling:1": {}
+        "ghcr.io/brooke-hamilton/features/pyspelling:1": {}
     }
 }
 ```
@@ -43,7 +43,7 @@ Add the feature to your `devcontainer.json`:
 {
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
     "features": {
-        "ghcr.io/brooke-hamilton/spelling-features/cspell:1": {}
+        "ghcr.io/brooke-hamilton/features/cspell:1": {}
     }
 }
 ```
@@ -143,7 +143,7 @@ To publish:
 
 The workflow will:
 
-- Package and publish each feature to `ghcr.io/brooke-hamilton/spelling-features/<feature>`.
+- Package and publish each feature to `ghcr.io/brooke-hamilton/features/<feature>`.
 - Generate documentation and open a PR with any updates.
 
 > **Note:** GHCR packages are private by default. To allow public access, go to the package settings and set visibility to **public**.

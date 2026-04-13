@@ -7,7 +7,7 @@ Installs cspell, a spell checker for code
 
 ```json
 "features": {
-    "ghcr.io/brooke-hamilton/spelling-features/cspell:1": {}
+    "ghcr.io/brooke-hamilton/features/cspell:1": {}
 }
 ```
 
@@ -30,7 +30,7 @@ If you need a specific Node.js version, add the node feature explicitly to your 
     "ghcr.io/devcontainers/features/node:1": {
         "version": "20"
     },
-    "ghcr.io/brooke-hamilton/spelling-features/cspell:1": {}
+    "ghcr.io/brooke-hamilton/features/cspell:1": {}
 }
 ```
 
@@ -39,4 +39,4 @@ The feature system will deduplicate the node feature and use your specified vers
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/brooke-hamilton/spelling-features/blob/main/src/cspell/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/brooke-hamilton/features/blob/main/src/cspell/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

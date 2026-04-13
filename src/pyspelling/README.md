@@ -7,7 +7,7 @@ Installs pyspelling, a spell checking tool powered by Aspell
 
 ```json
 "features": {
-    "ghcr.io/brooke-hamilton/spelling-features/pyspelling:1": {}
+    "ghcr.io/brooke-hamilton/features/pyspelling:1": {}
 }
 ```
 
@@ -21,4 +21,4 @@ Installs pyspelling, a spell checking tool powered by Aspell
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/brooke-hamilton/spelling-features/blob/main/src/pyspelling/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/brooke-hamilton/features/blob/main/src/pyspelling/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
